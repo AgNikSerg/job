@@ -27,6 +27,6 @@ jobs:
           git clone https://github.com/AgNikSerg/job.git || cd job && git pull
           cd job
           docker build -t nginx-deploy .
-          docker stop my-nginx || true
-          docker rm my-nginx || true
-          docker run -d --name my-nginx -p 80:80 nginx-deploy
+          docker stop webpage || true
+          docker rm webpage || true
+          docker run -d --name webpage -p 80:80 nginx-deploy
