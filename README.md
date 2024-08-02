@@ -12,4 +12,4 @@
 
 Далее я установил Grafana и Prometheus для мониторинга.
 
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://youtu.be/wyyF9i0cGqg?si=ZJwh3LOOD-3WO3x1)
+[![Watch the video](https://www.youtube.com/img/desktop/yt_1200.png)](https://youtu.be/wyyF9i0cGqg?si=ZJwh3LOOD-3WO3x1)
